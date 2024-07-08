@@ -9,6 +9,6 @@ Prior knoweldge:
 * image segmentation: connected components
 * geometric primitives: square
 
-Function: predict missing component
+Function: matching similarity and adding component to complete.
 
 ![image](https://github.com/priamai/arc/assets/57333254/84428706-1396-4ac4-8e61-10411efa4a38)
